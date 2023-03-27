@@ -387,7 +387,7 @@ Weights: 400, 700
 /* FOOTER START */
 .main-footer{
     width:100%;
-    max-width:1440px;
+    
     background-color: var(--dark-blue-3);
     padding-top:200px;
     padding-bottom:30px;
